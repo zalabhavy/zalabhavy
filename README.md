@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalabhavy&label=Profile%20views&color=0e75b6&style=flat" alt="zalabhavy" /> </p>
 
-- 👨‍💻 My Portfolio [https://bhavyzalaportfolio.netlify.app/]
+- 👨‍💻 My Portfolio [..]
 
 - 📫 Email **zalabhavy2004@gmail.com**
 
