@@ -12,18 +12,12 @@
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavy-zala-59bb76241/)
 
-<br>
 
 
 ## Skills:
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,tailwind,mongodb,mysql,postman,cpp,java,netlify,git,github,spring,l&perline=12)
 
 
-
-
-
-
-<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalabhavy&show_icons=true&locale=en&layout=compact" alt="zalabhavy" /></p>
