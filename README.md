@@ -16,7 +16,8 @@
 
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,tailwind,mongodb,mysql,postman,cpp,java,netlify,git,github,spring)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,tailwind,mongodb,mysql,postman,cpp,java,netlify,git,github,spring,l&perline=12)
+
 
 
 
@@ -30,3 +31,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zalabhavy&show_icons=true&locale=en" alt="zalabhavy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zalabhavy&" alt="zalabhavy" /></p>
+
+## GSSoC'24 Badges
+
+<div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
+</div>
+
