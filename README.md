@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalabhavy&label=Profile%20views&color=0e75b6&style=flat" alt="zalabhavy" /> </p>
 
-- 👨‍💻 My Portfolio [https://bhavy.netlify.app/]
+- 👨‍💻 My Portfolio: [Portfolio](https://bhavy.netlify.app/)
 
-- 📫 Email **zalabhavy2004@gmail.com**
+- 📫 Email: [Email Me](mailto:zalabhavy2004@gmail.com)
 
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavy-zala-59bb76241/)
