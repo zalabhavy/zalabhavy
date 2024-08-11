@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio: [Portfolio](https://bhavy.netlify.app/)
 
-- 📫 Email: [Email Me](mailto:zalabhavy2004@gmail.com)
+- 📫 Email: zalabhavy2004@gmail.com
 
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavy-zala-59bb76241/)
