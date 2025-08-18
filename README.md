@@ -17,7 +17,11 @@
 ## Skills:
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,tailwind,mongodb,mysql,postman,cpp,java,netlify,git,github,spring,l&perline=12)
 
+## Achievements:
 
+- **Top 10 Contributor at GSSoC'24**  with **200+ PRs merged** across various projects.  
+- **Open Source Contributor** in **Flutter**, **AsyncAPI**, and many more projects.
+- **Reviewed 50+ PRs as a Mentor** in **GSSoC'Extd 2024** and recognized as a **Top Mentor**.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalabhavy&show_icons=true&locale=en&layout=compact" alt="zalabhavy" /></p>
