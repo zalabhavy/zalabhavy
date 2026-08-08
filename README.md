@@ -35,8 +35,4 @@
   - **AB-100 – Agentic AI Business Solutions Architect**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalabhavy&show_icons=true&locale=en&layout=compact" alt="zalabhavy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zalabhavy&show_icons=true&locale=en" alt="zalabhavy" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zalabhavy&" alt="zalabhavy" /></p>
