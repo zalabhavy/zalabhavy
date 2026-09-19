@@ -33,6 +33,7 @@
 - **Microsoft Certified Professional**:
   - **AI-103 – Azure AI Apps and Agents Developer Associate**
   - **AB-100 – Agentic AI Business Solutions Architect**
+  - **GH-300 – GitHub Copilot Certification**
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zalabhavy&" alt="zalabhavy" /></p>
